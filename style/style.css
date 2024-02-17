@@ -1,0 +1,28 @@
+nav{
+    font-family: "Samsung Sans", sans-serif;
+    text-align: center;
+
+}
+.navBar ul{
+    list-style-type: none;
+    background-color: lightslategrey;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navBar a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+.navBar li{
+    float: left;
+    text-align: center;
+
+}
+header nav{
+    background-color: black;
+
+}
